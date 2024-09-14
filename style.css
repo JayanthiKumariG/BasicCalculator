@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-image: url("https://cdn.wallpapersafari.com/67/79/9arpdx.jpg");
+}
+
+.main {
+    width: 600px;
+    height: 700px;
+    border: 2px solid sandybrown;
+    border-radius: 10%;
+    margin: 100px 300px 100px 350px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 24px;
+}
+
+.input-field {
+    padding: 20px;
+}
+
+.input-field input {
+    width: 100%;
+    height: 40px;
+
+}
+
+.row0 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.row0 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: orange;
+    color:black;
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.row1 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.mul{
+    background-color: orange;
+    color:black;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.row2 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.sub{
+    background-color: orange;
+    color:black;
+}
+.row3 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.row3 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.add{
+    background-color: orange;
+    color:black;
+}
+
+.row4 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.row4 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.equal{
+    background-color: orangered;
+    color:black;
+}
+
+.button {
+    display: inline;
+    align-items: center;
+
+}
+
+.b1 {
+    width: 100px;
+    height: 50px;
+    border: 3px solid blue;
+    border-radius: 25%;
+    cursor: pointer;
+    margin: 10px 200px 200px 90px;
+    background-color: green;
+    color: white;
+}
+
+.b1:hover {
+    background-color: white;
+    color: black;
+}
+
+.b2 {
+    width: 100px;
+    height: 50px;
+    border: 3px solid blue;
+    border-radius: 25%;
+    cursor: pointer;
+    background-color:red;
+    color: white;
+
+}
+.b2:hover {
+    background-color: white;
+    color: black;
+}
+
+.b1:hover {
+    background-color: white;
+    color: black;
+}
